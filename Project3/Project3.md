@@ -159,8 +159,8 @@ The project1 highlight the instructions on how to create a hosted zone.
 
 ![19](ig/19.png)
 
-- Access your website to verify that Certbot has successfully enabled HTTPS.
+- Access your website to verify that Certbot has successfully enabled HTTPS.git comm
 
 ![20](ig/20.png)
 
-### **The End Of Project 3**
+### **The End Of Project 3** 
