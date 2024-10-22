@@ -338,6 +338,10 @@ terraform apply -var-file=../../vars/dev/vpc.tfvars
 terraform destroy  -var-file=../../vars/dev/vpc.tfvars
 ```
 
+![14](i/14.png)
+
+
+# END OF PROJECT
 
 
 
